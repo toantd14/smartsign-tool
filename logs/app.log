@@ -1,0 +1,2 @@
+2025-04-03 13:20:06 [main] INFO  app.SSLauncher - Command-line arguments: --vendor pvfco --file files/doc_0.pdf --image files/signature.jpeg --page 1 --position 85,361,235,261 --output files/signed_doc_0.pdf --username dkphuong --passwd 123456
+2025-04-03 13:20:07 [main] WARN  c.i.layout.renderer.RootRenderer - Element does not fit current area. 
