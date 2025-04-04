@@ -1,2 +1,4 @@
-2025-04-03 13:20:06 [main] INFO  app.SSLauncher - Command-line arguments: --vendor pvfco --file files/doc_0.pdf --image files/signature.jpeg --page 1 --position 85,361,235,261 --output files/signed_doc_0.pdf --username dkphuong --passwd 123456
-2025-04-03 13:20:07 [main] WARN  c.i.layout.renderer.RootRenderer - Element does not fit current area. 
+2025-04-04 15:19:04 [main] INFO  app.SSLauncher - Command-line arguments: --vendor pvfco --file files/doc_0.pdf --image files/signature.jpeg --page 1 --position 85,361,235,261 --output files/signed_doc_0.pdf --username dkphuong --passwd 123456
+2025-04-04 15:19:05 [main] INFO  p.pvfco.services.PVFCService - getBase64CertService: GetCert{slot='11', password='123456', certname='dkphuong', signature='+QXhvwcoRGKdF6mp/f2Sk1zqhxdqAJgQ5fGvi3KpLJw='}
+2025-04-04 15:19:05 [main] WARN  c.i.layout.renderer.RootRenderer - Element does not fit current area. 
+2025-04-04 15:19:05 [main] INFO  p.pvfco.services.PVFCService - signDataService: SignData{slot='11', password='123456', certname='dkphuong', data='MT8wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAjBgkqhkiG9w0BCQQxFgQUllzQuEv5lMXVjufsc8iYfqexQ3s=', hash='SHA1', signature='ytohHOzJSbNFpjPWtuaOnp075xdJMFH6puRI1JFeYN8='}
